@@ -26,27 +26,27 @@ To clone the repository and set up the project locally, follow these steps:
 1. Clone the repository to your local machine using Git:
 
     ```bash
-    git clone https://github.com/your-username/decentralized-storage.git
+    git clone hhttps://github.com/DeFi-Africa-Network/HTU_Group_One
     ```
 
 2. Navigate into the project directory:
 
     ```bash
-    cd decentralized-storage
+    cd /HTU_Group_One
     ```
 
 3. Install dependencies for the frontend:
 
     ```bash
-    cd frontend
+    cd Frontend
     npm install
     ```
 
 4. Install dependencies for the smart contract:
 
     ```bash
-    cd ../smart-contract
-    npm install
+    cd contract 
+    Test with Remix IDE or Hardhat
     ```
 
 ## Running the Project
@@ -56,5 +56,5 @@ To clone the repository and set up the project locally, follow these steps:
 To run the frontend interface, execute the following commands:
 
 ```bash
-cd frontend
+cd Frontend
 npm run dev
