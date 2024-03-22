@@ -29,10 +29,10 @@ To clone the repository and set up the project locally, follow these steps:
     git clone hhttps://github.com/DeFi-Africa-Network/HTU_Group_One
     ```
 
-2. Navigate into the project directory:
+2. Navigate into the project directory and checkout into team member branches
 
     ```bash
-    cd /HTU_Group_One
+    cd HTU_Group_One
     ```
 
 3. Install dependencies for the frontend:
